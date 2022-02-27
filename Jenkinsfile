@@ -6,8 +6,4 @@ stages {
     archiveArtifacts artifacts: 'dist/trainSchedule.zip'
    }
   }
-
  }
-
-
-}
